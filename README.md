@@ -12,9 +12,9 @@ The dataset used for training the BizAssist Bot contains questions and answers r
 ## Performance Metrics
 The performance of the BizAssist Bot is evaluated using standard NLP metrics such as Precision, Recall, and F1 Score. Here are the results:
 
-- **Precision:** 85.7%
-- **Recall:** 84.3%
-- **F1 Score:** 85.0%
+- **Precision:** 
+- **Recall:** 
+- **F1 Score:** 
 
 The model was fine-tuned on the expanded dataset and tested on a separate validation set to ensure accuracy and reliability.
 
@@ -66,8 +66,7 @@ You can access the BizAssist Bot using the following link:
     streamlit run BizAssist_Bot.py
     ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 - Hugging Face for providing the `transformers` library.
