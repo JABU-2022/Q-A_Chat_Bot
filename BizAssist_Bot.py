@@ -52,7 +52,7 @@ def get_most_similar_answer(question, question_embeddings, df):
 
 def main():
     # Title of the web app
-    st.title('Question Answering with BERT')
+    st.title('Business Assistant Bot')
 
     # Getting the input data from the user
     question = st.text_input("Enter your question")
