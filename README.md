@@ -12,9 +12,9 @@ The dataset used for training the BizAssist Bot contains questions and answers r
 ## Performance Metrics
 The performance of the BizAssist Bot is evaluated using standard NLP metrics such as Precision, Recall, and F1 Score. Here are the results:
 
-- **Precision:** 
-- **Recall:** 
-- **F1 Score:** 
+- **Precision:** 0.002
+- **Recall:** 0.002
+- **F1 Score:** 0.002
 
 The model was fine-tuned on the expanded dataset and tested on a separate validation set to ensure accuracy and reliability.
 
