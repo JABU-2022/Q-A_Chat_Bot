@@ -38,6 +38,10 @@ You can access the BizAssist Bot using the following link:
 
 [Access BizAssist Bot](http://localhost:8501)
 
+## Demo Video For The app
+
+[Demo video of the chatbot](https://drive.google.com/file/d/1mPttAXNd9eB00r_1W1hjLBMYdZ-UoffS/view?usp=sharing)
+
 ## Getting Started
 
 ### Prerequisites
