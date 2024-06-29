@@ -7,7 +7,7 @@ BizAssist Bot is a Q&A chatbot designed to drive economic growth and create mean
 The dataset used for training the BizAssist Bot contains questions and answers related to economic growth, job creation, and machine learning applications in business.
 
 ### Link to Dataset
-[Download the Dataset](link_to_your_dataset)
+[Download the Dataset](https://github.com/JABU-2022/Q-A_Chat_Bot/blob/main/custom_qa_dataset.csv)
 
 ## Performance Metrics
 The performance of the BizAssist Bot is evaluated using standard NLP metrics such as Precision, Recall, and F1 Score. Here are the results:
